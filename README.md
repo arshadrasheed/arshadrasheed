@@ -19,7 +19,7 @@
 >**OEM Standards Worked** <br>
 >![Hirotec](https://img.shields.io/badge/-Hirotech.Inc-blue)
 >![Nissan](https://img.shields.io/badge/-Nissan-red)
->![Suzuki](https://img.shields.io/badge/-Maruthi--Suzuki-purple)
+>![Suzuki](https://img.shields.io/badge/-Maruti--Suzuki-purple)
 >![Daimler](https://img.shields.io/badge/-Daimler-orange)<br><br>
 > **CAD Softwares**<br>
 ![AutoCad](https://img.shields.io/badge/-Autocad-red) ![CATIA V5](https://img.shields.io/badge/-CATIA%20V5-purple) ![NX CAD](https://img.shields.io/badge/-NX%20CAD-turquoise%20blue) 
