@@ -25,7 +25,7 @@
 ![AutoCad](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Autocad.svg) ![CATIA V5](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/CATIA%20V5.svg) ![NX CAD](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/NX%20CAD.svg) 
 
 ##### As BIM Engineer 🏠: 
->Worked as a **BIM Modeller**, Especially in Architectural and Structural Module 🧱. <br>
+>Worked as a **BIM Modeler**, Especially in Architectural and Structural Module 🧱. <br>
 >Structural design and drafting for Timber Building ⛩.<br>
 >⭐️ Converting Autocad drawings to Parameteric BIM Model.<br>
 >⭐️ Timber Frame Modeling for Residential Buildings.<br>
