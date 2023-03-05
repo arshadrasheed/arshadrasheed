@@ -49,7 +49,6 @@
 ![Figma](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/figma.svg) ![Git](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/git.svg)<br><br>
 
 ### 🌐Social : <br>
-[![LinkedIn](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Linkedin.svg)](https://www.linkedin.com/in/mohamed-arshad-797513166/)
 [![github](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Github.svg)](https://github.com/arshadrasheed)
 [![stackOverflow](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/stackover%20flow.svg)](https://stackoverflow.com/users/13355199/arshad-rasheed)
 
