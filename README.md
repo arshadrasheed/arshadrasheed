@@ -4,7 +4,7 @@
 #### About Me 💫:
 👋 Hi I'm **Mohamed Arshad Rasheed**, Currently Working as a **CAD & BIM** Plugin Developer 💻 Origin India ❤️.<br>
 ❣️Former CAD Engineer ⌛️ transformed as CAD Developer **[CAD Customization Engineer]**.<br>
-🌟**Studied Diploma in Tool and Die Engineering 🔩** and currently pursuing Undergradute in **Mechanical Engineering ❤️‍🔥**🌟
+🌟**Studied Diploma in Tool and Die Engineering 🔩** and currently pursuing **UG** in **Mechanical Engineering ❤️‍🔥**🌟
 
 ##### As CAD Engineer 🔥:
 > I started my career........🪔 as as **Drafting Enginner**, Creating Production drawings for **BIW Welding tool**.<br>
