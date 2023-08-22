@@ -12,16 +12,8 @@
 > ⭐️ Worked in Ergonomics Rule checking for Weldtool.<br>
 > ⭐️ Product loading and unloading feasibility.<br>
 > ⭐️ Weld-Gun reachability study <br><br>
->**Stations Worked** <br>
->![Geostation](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Geo%20Station.svg)
->![Respot](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Respot%20Station.svg)
->![Hem-Die](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Hemdie%20Station.svg)<br><br>
->**OEM Standards Worked** <br>
->![Hirotec](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Hirotech.svg)
->![Nissan](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Nissan.svg)
->![Suzuki](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Maruti%20Suzuki.svg)
->![Daimler](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Daimler.svg)<br><br>
-> **CAD Softwares**<br>
+
+> **Known CAD Softwares**<br>
 ![AutoCad](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/Autocad.svg) ![CATIA V5](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/CATIA%20V5.svg) ![NX CAD](https://github.com/arshadrasheed/arshadrasheed/blob/main/Images/NX%20CAD.svg) 
 
 ##### As BIM Engineer 🏠: 
